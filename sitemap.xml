@@ -3,70 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/faq/1532243651/</loc>
+    <loc>https://alibabacloud-faq.github.io/faq/1532243651/</loc>
     <lastmod>2018-07-22T16:14:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/faq/1532243315/</loc>
+    <loc>https://alibabacloud-faq.github.io/faq/1532243315/</loc>
     <lastmod>2018-07-22T16:08:35+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2018-07-22T16:14:11+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/aws/</loc>
-    <lastmod>2018-07-22T16:08:35+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/faq/</loc>
+    <loc>https://alibabacloud-faq.github.io/</loc>
     <lastmod>2018-07-22T16:14:11+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/oss/</loc>
+    <loc>https://alibabacloud-faq.github.io/tags/aws/</loc>
     <lastmod>2018-07-22T16:08:35+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2018-07-22T16:08:35+09:00</lastmod>
+    <loc>https://alibabacloud-faq.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8/</loc>
-    <lastmod>2018-07-22T16:08:35+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</loc>
+    <loc>https://alibabacloud-faq.github.io/faq/</loc>
     <lastmod>2018-07-22T16:14:11+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</loc>
+    <loc>https://alibabacloud-faq.github.io/tags/oss/</loc>
+    <lastmod>2018-07-22T16:08:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alibabacloud-faq.github.io/tags/</loc>
+    <lastmod>2018-07-22T16:08:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alibabacloud-faq.github.io/tags/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8/</loc>
+    <lastmod>2018-07-22T16:08:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alibabacloud-faq.github.io/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</loc>
     <lastmod>2018-07-22T16:14:11+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88/</loc>
+    <loc>https://alibabacloud-faq.github.io/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</loc>
+    <lastmod>2018-07-22T16:14:11+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alibabacloud-faq.github.io/categories/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88/</loc>
     <lastmod>2018-07-22T16:08:35+09:00</lastmod>
     <priority>0</priority>
   </url>

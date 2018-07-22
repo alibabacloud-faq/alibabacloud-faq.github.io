@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alibaba Cloud FAQ</title>
-    <link>https://example.org/</link>
+    <link>https://alibabacloud-faq.github.io/</link>
     <description>Recent content on Alibaba Cloud FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 22 Jul 2018 16:14:11 +0900</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alibabacloud-faq.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>クラウドサービスのサポートはどこが行うのでしょうか。</title>
-      <link>https://example.org/faq/1532243651/</link>
+      <link>https://alibabacloud-faq.github.io/faq/1532243651/</link>
       <pubDate>Sun, 22 Jul 2018 16:14:11 +0900</pubDate>
       
-      <guid>https://example.org/faq/1532243651/</guid>
+      <guid>https://alibabacloud-faq.github.io/faq/1532243651/</guid>
       <description>&lt;p&gt;日本に拠点を持つSBクラウドのサポート窓口が対応を行います。日本語にてサポートいたします。
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Alibaba Cloudのオブジェクトストレージサービス（OSS）はAWS S3と互換のAPIでしょうか。</title>
-      <link>https://example.org/faq/1532243315/</link>
+      <link>https://alibabacloud-faq.github.io/faq/1532243315/</link>
       <pubDate>Sun, 22 Jul 2018 16:08:35 +0900</pubDate>
       
-      <guid>https://example.org/faq/1532243315/</guid>
+      <guid>https://alibabacloud-faq.github.io/faq/1532243315/</guid>
       <description>&lt;p&gt;Alibaba Cloud OSSはS3互換APIではありません。独自のAPIを持っています。しかし、SDKを提供していますので、そちらをご利用していただくことで開発効率をあげることが可能です。
 &lt;/p&gt;</description>
     </item>

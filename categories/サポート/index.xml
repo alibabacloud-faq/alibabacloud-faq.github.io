@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>サポート on Alibaba Cloud FAQ</title>
-    <link>https://example.org/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
+    <link>https://alibabacloud-faq.github.io/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
     <description>Recent content in サポート on Alibaba Cloud FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 22 Jul 2018 16:14:11 +0900</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alibabacloud-faq.github.io/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>クラウドサービスのサポートはどこが行うのでしょうか。</title>
-      <link>https://example.org/faq/1532243651/</link>
+      <link>https://alibabacloud-faq.github.io/faq/1532243651/</link>
       <pubDate>Sun, 22 Jul 2018 16:14:11 +0900</pubDate>
       
-      <guid>https://example.org/faq/1532243651/</guid>
+      <guid>https://alibabacloud-faq.github.io/faq/1532243651/</guid>
       <description>&lt;p&gt;日本に拠点を持つSBクラウドのサポート窓口が対応を行います。日本語にてサポートいたします。
 &lt;/p&gt;</description>
     </item>

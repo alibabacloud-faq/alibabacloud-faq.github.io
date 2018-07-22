@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Alibaba Cloud FAQ</title>
-    <link>https://example.org/categories/</link>
+    <link>https://alibabacloud-faq.github.io/categories/</link>
     <description>Recent content in Categories on Alibaba Cloud FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alibabacloud-faq.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>サポート</title>
-      <link>https://example.org/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
+      <link>https://alibabacloud-faq.github.io/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
       <pubDate>Sun, 22 Jul 2018 16:14:11 +0900</pubDate>
       
-      <guid>https://example.org/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</guid>
+      <guid>https://alibabacloud-faq.github.io/categories/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>プロダクト</title>
-      <link>https://example.org/categories/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88/</link>
+      <link>https://alibabacloud-faq.github.io/categories/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88/</link>
       <pubDate>Sun, 22 Jul 2018 16:08:35 +0900</pubDate>
       
-      <guid>https://example.org/categories/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88/</guid>
+      <guid>https://alibabacloud-faq.github.io/categories/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88/</guid>
       <description></description>
     </item>
     
