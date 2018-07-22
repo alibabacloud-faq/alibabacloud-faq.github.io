@@ -1,0 +1,4 @@
+Sitemap: https://alibabacloud-faq.github.io/sitemap.xml
+
+User-agent: *
+Disallow: /
