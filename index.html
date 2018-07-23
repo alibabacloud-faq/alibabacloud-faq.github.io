@@ -91,12 +91,14 @@
       <div class="container">
         <h1 class="blog-title"><a href="https://alibabacloud-faq.github.io/" rel="home">Alibaba Cloud FAQ</a></h1>
         <p class="lead blog-description">Alibaba Cloudに関するよくある質問をまとめました。</p>
-          <div class="search-engine">
-            <h4>検索エンジンエリア</h4>
-            <input type="text">
-          </div>
-
       </div>
+      <div class="container">
+        <div class="search-engine">
+          <input id="search-textbox" class="form-control" type="text" placeholder="キーワード検索">
+          <div id="search-result"></div>
+        </div>
+      </div>
+
     </header>
     
 
@@ -225,6 +227,33 @@
       </p>
     </footer>
     
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://www.jsviews.com/download/jsrender.min.js"></script>
+    <script>
+    $(function() {
+        $('#search-textbox').keypress(function(e) {
+            if(e.which == 13){
+                $('#search-result').empty();
+                search($('#search-textbox').val())
+                  .done(function(result){
+                    $.each(result.hits.hits, function(){
+                        $("#search-result").append("<article class=\"blog-post\"><header><h2 class=\"blog-post-title\"><a href=" + this._source.uri +">"+ this._source.title +"</a></h2></header><p>" + this._source.description + "</p></article>");
+                    })
+                }).fail(function(){
+                    $('#search-result').append("<p>error</p>");
+                })
+            }
+        });
+    });
+    function search(query){
+        return $.ajax({
+            type: "GET",
+            url: "http://development-gill-search.mosuke.tech/faq/search",
+            data: "q=" + query,
+            dataType: "json"
+        })
+    }
+    </script>
 
   </body>
 
