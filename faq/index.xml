@@ -6,10 +6,1207 @@
     <description>Recent content in Faqs on Alibaba Cloud FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Sun, 22 Jul 2018 16:14:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jul 2018 16:14:11 +0900</lastBuildDate>
     
 	<atom:link href="https://alibabacloud-faq.github.io/faq/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2018/7/9時点では、日本リージョンは１つ（東京）となっておりますが、今後リージョンが増える予定はありますでしょうか。例えば、大阪や北海道など。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_117/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_117/</guid>
+      <description>日本において、新リージョンの新設はニーズ次第で検討しますが、現時点では新設の予定がございません。 なお、東京リージョンのAZ(Avaliabi</description>
+    </item>
+    
+    <item>
+      <title>25番ポートの利用について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_98/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_98/</guid>
+      <description>恐れ入りますが、SMTP(25番ポート)を使ったメール送信（25番ポートの外部接続）が制限されています。 詳細については、下記のリンクをご参照</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloud Migration Toolを使用してP2V、V2Vを実施する場合、移行元サーバのサービスに影響はありますでしょうか。サーバ・サービスの停止が必要なのか、増分データが発生した場合の対処など、注意があるのでは危惧しております。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_131/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_131/</guid>
+      <description>Alibaba Cloud Migration Toolは、増分データの移行をサポートしていません。 データの完全性が必要な場合、移行対象サーバーを一時停止する必要があります。</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloud Migration Toolを使用する場合、サポートOS以外で実施した場合の注意点を教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_130/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_130/</guid>
+      <description>サポートOS以外の場合、Alibaba Cloud Migration Toolの正常動作は保証できないため、推奨いたしません。</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloud OSS(オブジェクトストレージ)がAWS S3とプロトコル互換か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_59/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_59/</guid>
+      <description>互換ではありません。 Alibaba Cloud OSS(オブジェクトストレージ)のSDKをご用意していますので、そちらを活用することで開発を効率化することができます</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloud 東京リージョンのデータセンターの場所は都内のどこにあるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_41/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_41/</guid>
+      <description>セキュリティの観点から、詳細な場所は非公開となっております。</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloudに外部からOSのイメージをインポートして利用することはできますか。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_95/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_95/</guid>
+      <description>可能です。下記のURLに従って実施することができます。 https://jp.alibabacloud.com/help/doc-detail/48226.htm</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloudのデータセンターの場所について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_43/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_43/</guid>
+      <description>セキュリティの観点から、詳細な場所は非公開となっております。</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloudの日本中国間のインターネット品質が良いといっていますが、なぜAlibaba Cloudの品質がいいのか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_56/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_56/</guid>
+      <description>アリババとSBクラウドのネットワークチーム間で協力し、日々ネットワークの監視・最適化を実施しております。</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloudを提案するターゲット企業について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_26/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_26/</guid>
+      <description>パブリッククラウドサービスですので、業種問わずご利用いただくことが可能です。Alibaba Cloudは、中国にリージョンを持っており、また、</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloud日本サイトのアカウントの発行方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_22/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_22/</guid>
+      <description>アカウントの登録は以下のURLより可能です。 https://account-jp.alibabacloud.com/register/intl_register.htm 登録方法のマニュアルについては下記をご参照ください。 https://www.sbcloud.co.jp/wp-content/uploads/2017/06/Aliyun_Account_Registration.pdf</description>
+    </item>
+    
+    <item>
+      <title>Alibaba Cloud日本サイトのアカウント数について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_27/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_27/</guid>
+      <description>登録アカウント数は1800です。（2017年11月末時点）</description>
+    </item>
+    
+    <item>
+      <title>AlibabaのEコマースの仕組みを利用できるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_44/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_44/</guid>
+      <description>AlibabaのEコマースの仕組みは、サービスとして提供しておりません。</description>
+    </item>
+    
+    <item>
+      <title>Anti-DDoSなどのセキュリティサービスで、新たな脅威が発見された場合の対処方法はどのようになりますでしょうかクライアント側で何か対応が必要になるのでしょうか。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_121/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_121/</guid>
+      <description>Anti-DDoSの場合は、異常なトラフィックを検出すると、まずはトラフィックのクリーニングを行います。 トラフィックの量はブラックホールのし</description>
+    </item>
+    
+    <item>
+      <title>CDN プロダクト（サービス）の停止・リリース方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_103/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_103/</guid>
+      <description>最初に、お客様が利用する DNS サーバ（またはドメインプロバイダ）で「Alibaba Cloud CDN 提供する CNAME レコード」の DNS からの設定削除をお願いいたします。</description>
+    </item>
+    
+    <item>
+      <title>DNSサービスの提供について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_102/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_102/</guid>
+      <description>日本側では、近日中にリリースされる予定です。</description>
+    </item>
+    
+    <item>
+      <title>ECSについてCPUまたはメモリの変更方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_96/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_96/</guid>
+      <description>ECSインスタンスのCPU、メモリの変更はできない仕様になっております。 ご不便をかけしますが、対象スペックのECSの新規購入をお願いします。</description>
+    </item>
+    
+    <item>
+      <title>ECSの12,000IOPSは保証か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_101/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_101/</guid>
+      <description>IOPSの保証でではありません。また、IOPSの数値は購入するディスクの容量によって変化いたします。 https://jp.alibabacloud.com/help/doc-detail/25383.htm</description>
+    </item>
+    
+    <item>
+      <title>ECSのデータ転送量の確認方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_87/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_87/</guid>
+      <description>CSVファイルで、使用状況のご確認ができますので、ご案内いたします。 以下のメニューより、「使用状況レコード」画面を表示します。 [コンソール]</description>
+    </item>
+    
+    <item>
+      <title>ECSの作成方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_92/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_92/</guid>
+      <description>以下のページにECSのクイックスタートがありますので、ご参照ください。 https://jp.alibabacloud.com/help/doc-detail/25422.htm</description>
+    </item>
+    
+    <item>
+      <title>ECSの有効期限がX日間、延長された事象について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_91/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_91/</guid>
+      <description>ご連絡いただきました通り、ECSの有効期限がX日間、延長されております。 これはICPのキャンペーンによるECS有効期限の延長になります。 ご利</description>
+    </item>
+    
+    <item>
+      <title>ECSインスタンスに割り当てられるIPアドレスを静的にすることは可能でしょうか。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_128/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_128/</guid>
+      <description>パブリック IPをEIPに変更することが可能です。 詳細については、下記「パブリック IP を EIP に変更する方法」にてご確認ください。 https://jp.alibabacloud.com/help/faq-detail/68010.html</description>
+    </item>
+    
+    <item>
+      <title>ECSインスタンスのホストでメンテナンスや障害発生した場合の動作を教えてください。メンテナンスやホスト障害時にECSインスタンスが停止することを危惧しております。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_133/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_133/</guid>
+      <description>定期メンテナンスの場合は、インスタンスをホットマイグレーションするため、ユーザーに通知されません。 システムイベントの場合は、事前にユーザーに</description>
+    </item>
+    
+    <item>
+      <title>ECSインスタンス作成時の割り振られたIPアドレスですが、ECSインスタンスが停止⇒起動、再起動をした場合に変更しないでしょうか。リセットアクションにより、IPアドレスが都度変更されるのではと危惧しております。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_129/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_129/</guid>
+      <description>ECSインスタンス作成時に2種類のIPアドレス(パブリック IPとプライベートIP)があります。 パブリックIPについては、インスタンス停止後に</description>
+    </item>
+    
+    <item>
+      <title>ECSサブスクリプションの自動更新の設定について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_89/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_89/</guid>
+      <description>ECSサブスクリプションの自動更新の設定は以下の画面から設定可能です。 [コンソール] - [Billing Management] - [料金・支払い管理] - [サブスクリプション更新]</description>
+    </item>
+    
+    <item>
+      <title>Express Connectの納期はどの程度かかるのか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_74/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_74/</guid>
+      <description>Express Connect（VPCコネクション）の場合、お申し込みから最短で数営業日程度です。Express Connect（ダイレクト・アクセス）は、</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション） はシンガポールと結ぶことができるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_85/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_85/</guid>
+      <description>中国をHubにしてシンガポールに接続できます。</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）、Express Connect（ダイレクト・アクセス）の申込後の帯域幅の変更は可能か教えてください。また、その際の手続き方法やリードタイムについて教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_75/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_75/</guid>
+      <description>利用開始後の増速変更は可能ですが、減速変更はできません。手続きに数営業日程度必要となります。手続きの詳細は担当営業までご連絡ください。</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）、Express Connect（ダイレクト・アクセス）の通信に対して中国政府の検閲があるのか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_82/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_82/</guid>
+      <description>検閲の対象外となります。 →別途承諾書を展開します。</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）については日中間にて提供しているとのことですが、中国国内でのExpress Connectの提供が可能か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_80/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_80/</guid>
+      <description>中国国内でもご利用可能です。 https://jp.alibabacloud.com/product/express-connect#overview</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）については日本-中国間にて提供しているとのことですが、中国国内でのExpress Connect（VPCコネクション）の提供が可能か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_66/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_66/</guid>
+      <description>現地でご契約中のキャリア次第となりますが、中国のリージョンに対してダイレクトアクセス同様の構成を取ることは可能です。</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）のキャンペーンとはどんな内容か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_108/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_108/</guid>
+      <description>・日本ー中国間の Small.1(10Mbps相当) Express Connect（VPCコネクション）を新規ご利用いただける場合、３ヶ月無料となるキャンペ</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）の低帯域サービスについて教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_21/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_21/</guid>
+      <description>現在Express Connect（VPCコネクション）は10Mbpsからのご提供となっております。</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）の料金について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_2/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_2/</guid>
+      <description>Alibaba Cloud公式ホームページの料金プラン・特徴ページをご参照ください。 https://jp.alibabacloud.com/pricing</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）は帯域保証型サービスか、ベストエフォートか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_73/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_73/</guid>
+      <description>一秒間に転送するデータ量を保証するサービスです。Small.1では一秒間に1.25Mbyte、一日で108Gbyteの転送を保証します。回線</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）を利用して中国とその他の国の間で利用する場合の利用用途の制限について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_78/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_78/</guid>
+      <description>契約前にお客様のご利用用途を事前にお知らせいただく必要があります。また中国国内法で禁じられている利用や、中国政府に申請が必要なサービス（EC</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）を利用する場合と、国際専用線等を引く場合でどう違うか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_68/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_68/</guid>
+      <description>Express Connect（VPCコネクション）は、クラウド型の専用ネットワークサービスです。特徴として、導入までのリードタイムの短縮化、月単位の契約</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（VPCコネクション）専用線やVPNサービスとどう違うのか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_72/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_72/</guid>
+      <description>SDN（ソフトウェエア・デファインド・ネットワーク）アーキテクチャーと独自のスイッチ仮想化技術による専用型ネットワークです。専用線のように物</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（ダイレクト・アクセス）で利用できる通信事業者はどこになるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_77/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_77/</guid>
+      <description>Express Connect（ダイレクト・アクセス）で利用できる通信事業者はリージョン毎に異なります。日本リージョンの場合は、ソフトバンク株式会社のSm</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（ダイレクト・アクセス）とソフトバンクの専用線/SmartVPNなどはどう違うか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_79/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_79/</guid>
+      <description>Express Connect（ダイレクト・アクセス）は、Alibaba Cloudへ専用線を接続できるサービスであり、実際の通信回線にはソフトバンクのSm</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（ダイレクト・アクセス）とソフトバンクの専用線/SmartVPNなどはどう違か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_70/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_70/</guid>
+      <description>Express Connect（ダイレクト・アクセス）はクラウドサービス間を接続するサービスのため仮想サーバーの購入も含めて利用していただく必要があります</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（ダイレクト・アクセス）のキャンペーンとはどんな内容か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_107/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_107/</guid>
+      <description>・特典内容：Express Connect（ダイレクト・アクセス） ルーターインタフェース料金およびポート料金が全て無料です。 ・キャンペーン期間</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（ダイレクト・アクセス）の課金体系について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_19/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_19/</guid>
+      <description>お客様オフィスやデータセンターからAlibaba Cloudまでの、回線についてはキャリアサービスに依存します。 SBクラウドからの請求は、回線</description>
+    </item>
+    
+    <item>
+      <title>Express Connect（ダイレクト・アクセス）提供開始を教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_69/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_69/</guid>
+      <description>12月開始予定です。</description>
+    </item>
+    
+    <item>
+      <title>ExpressConnect（VPCコネクション）の専用線の回線事業者は選べるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_81/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_81/</guid>
+      <description>既に敷設しているものなので、回線事業者の選択はできません。 既に敷設しているため、納期は1週間程度で敷設が可能です。 1ヶ月単位での利用が可能で</description>
+    </item>
+    
+    <item>
+      <title>GCPやAzureとの主な違い、強みを教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_33/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_33/</guid>
+      <description>Alibaba Cloudの強みは中国を含むグローバルを視野に入れたパブリッククラウドサービスになります。</description>
+    </item>
+    
+    <item>
+      <title>IP アドレスの交換ができるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_63/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_63/</guid>
+      <description>誠に恐れ入りますが、ECS ご購入と同時にバインドされた IP アドレスを変更することが、システムの仕様上不可能となっております。 ECSのEIPを変</description>
+    </item>
+    
+    <item>
+      <title>IPロケーション情報について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_64/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_64/</guid>
+      <description>IPロケーション情報の変更について弊社が設定可能なデータは以下になっております。 http://ip.taobao.com/ お客様がお使いの IP アドレスを含む IP ブロックの地理情報の変更</description>
+    </item>
+    
+    <item>
+      <title>IaaSもセットとして、日中間のテレビ会議システムのパッケージが提供されているか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_45/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_45/</guid>
+      <description>パッケージとしては提供がありませんが、個別にご提案は可能です。</description>
+    </item>
+    
+    <item>
+      <title>IaaSもセットとして、日中間のテレビ会議システムのパッケージの費用感について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_46/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_46/</guid>
+      <description>パッケージとしては提供がありませんが、個別にご提案は可能です。</description>
+    </item>
+    
+    <item>
+      <title>IoTに関連するサービスがあるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_65/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_65/</guid>
+      <description>今後提供予定です。</description>
+    </item>
+    
+    <item>
+      <title>MYSQLなどECSでインストールし使用した場合とRDSを使用した場合の違い、注意点等ございますでしょうか。また、RDSの方が可用性は高まるでしょうか。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_124/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_124/</guid>
+      <description>ECS上DBを構築される場合、インスタンスの管理やセキュリティパッチの適応などの作業はユーザー側が実施する必要があります。 詳細は下記の「Ap</description>
+    </item>
+    
+    <item>
+      <title>Office365やOracleなどミドルウェア等ライセンスはAlibabaClioud上のサービスで含まれているでしょうか。例えば、特定のイメージを使用すると特定のミドルウェアライセンスが含まれているなど。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_125/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_125/</guid>
+      <description>仮想サーバにはミドルウェアは含まれていません。ただし、データベースについてはApsaraDB for RDSにはライセンスが含まれています。</description>
+    </item>
+    
+    <item>
+      <title>RDSなどのPaaSで、セキュリティパッチの反映等はどのような形になるのでしょうか。事前通知やサービス停止せずに行うことはできるのでしょうか</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_120/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_120/</guid>
+      <description>セキュリティパッチ適応などのメンテナンスはAlibaba Cloud側の運用ポリシーに沿って行われるため、 基本的にユーザーが意識する必要がござ</description>
+    </item>
+    
+    <item>
+      <title>SLBのマスター・スレーブ機能で、スレーブが異常と表示されるのですが、対処方法を教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_57/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_57/</guid>
+      <description>マスタースレーブサーバグループの場合、下記2点は仕様となっております。 ・待機中のスレーブサーバのヘルスチェックは行わない ・待機中のスレーブサ</description>
+    </item>
+    
+    <item>
+      <title>SaaSへの取り組みについて教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_58/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_58/</guid>
+      <description>提供予定ですが、時期は未定です。</description>
+    </item>
+    
+    <item>
+      <title>SmartVPNと接続する際の料金の考え方について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_20/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_20/</guid>
+      <description>お客様オフィスやデータセンターからAlibaba Cloudまでの、回線についてはキャリアサービスに依存します。 SBクラウドからの請求は、回線</description>
+    </item>
+    
+    <item>
+      <title>VPCを日本のみで構築することは可能か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_55/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_55/</guid>
+      <description>可能です。</description>
+    </item>
+    
+    <item>
+      <title>VPC内の通信は課金対象になるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_9/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_9/</guid>
+      <description>VPC内の通信の場合、トラフィックの従量課金は発生しません。ただし、インターネットを経由して通信する場合、トラフィックの課金が発生いたします</description>
+    </item>
+    
+    <item>
+      <title>Windowsのライセンスおよび、RHELのサブスクリプションはどのように扱っているでしょうか。新規作成した場合はすでに登録されている状態でしょうか。また、既存環境からインポートした場合、OSライセンスはそのまま利用することは可能でしょうか。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_127/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_127/</guid>
+      <description>ECS購入画面から選択できる標準のOSについてはライセンス料が含まれています。 既存環境からインポートした場合については、ただいま確認中です。</description>
+    </item>
+    
+    <item>
+      <title>rootユーザのパスワード指定方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_52/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_52/</guid>
+      <description>以下の画面でパスワードの指定が可能です。 [コンソール] - [ECS] - [インスタンス] パスワードを設定したいインスタンの[アクション] - [詳細] - [パ</description>
+    </item>
+    
+    <item>
+      <title>「Data Transfer Plan」について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_14/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_14/</guid>
+      <description>スターターパッケージでECSサーバーをご購入した場合、「Data Transfer Plan」というデータ転送量が自動的に付与されます。「Data Transfer Plan」</description>
+    </item>
+    
+    <item>
+      <title>ご利用料金の引き落とし時期について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_10/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_10/</guid>
+      <description>弊社サービスの支払い方法は、クレジットカードとなっております。 課金タイプは2種類あり、請求タイミングが異なります。 ・サブスクリプション 前払い</description>
+    </item>
+    
+    <item>
+      <title>ほかのクラウドよりも強みとされている部分、特徴的な部分は、どういった部分になるでしょうか例えば、障害に強い、ダウンタイムが短い、ネットワークが早い、インスタンス作成〜起動までが簡単など</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_116/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_116/</guid>
+      <description>大きな特徴としては２つ考えています。 １つは中国関連です。中国のリージョンを日本から購入できることや日本と中国の間の専用線を利用することなどで</description>
+    </item>
+    
+    <item>
+      <title>アカウントによって表示されるリージョンが異なる理由を教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_51/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_51/</guid>
+      <description>アカウントにより、選択可能なリージョンが異なることがあります。これは、該当アカウントの購入履歴に依存しております。過去に購入のあるリージョン</description>
+    </item>
+    
+    <item>
+      <title>アカウントを休止方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_50/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_50/</guid>
+      <description>アカウント休止の手順は以下をご参照ください。 https://jp.alibabacloud.com/help/faq-detail/52971.htm</description>
+    </item>
+    
+    <item>
+      <title>アプリｰアプリ間通信にてWEB、AP間やAP、DB(ECS、RDS)間でのレスポンスに関して遅延が生じる可能性はありますでしょうか</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_122/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_122/</guid>
+      <description>コンポーネント間の接続方法によります。 共有のネットワークを利用しているので、遅延がまったくないわけではないですが、イントラネット通信の場合は</description>
+    </item>
+    
+    <item>
+      <title>インターネットVPNでの中国以外でも接続できるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_54/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_54/</guid>
+      <description>ソフトウェアにて提供しているVPNサーバーであればどこでも可能です。</description>
+    </item>
+    
+    <item>
+      <title>インターネットでは無く、専用線で接続できるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_71/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_71/</guid>
+      <description>Express Connect（VPCコネクション）という専用型NWサービスを開始しており対応可能です。</description>
+    </item>
+    
+    <item>
+      <title>インバウンドのトラフィックは課金対象になるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_8/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_8/</guid>
+      <description>インターネットトラフィックの従量課金はアウトバウンド(サーバから見て上り)片側のみに課金されます。インバウンド（サーバから見て下り）通信につ</description>
+    </item>
+    
+    <item>
+      <title>オブジェクトストレージにおいてWeb画面からサービス利用することができるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_60/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_60/</guid>
+      <description>可能です。 APIも公開しています。</description>
+    </item>
+    
+    <item>
+      <title>クラウドサービスのサポートはどこが行うか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_47/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_47/</guid>
+      <description>日本に拠点をもつ、SBクラウドのサポート窓口が対応を行います。日本語でサポートをいたします。</description>
+    </item>
+    
+    <item>
+      <title>クラウドサービス上で障害が起きた際のデータは最新の状態で保持できますでしょうか。ロールバック等古いデータに戻るのではないかと懸念しております。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_119/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_119/</guid>
+      <description>Alibaba Cloud上に保存されているデータは複数箇所に冗長されているため、高いデータの耐久性を保たれています。 例えば、オブジェクトストレージサービ</description>
+    </item>
+    
+    <item>
+      <title>クレジットカードに利用認識のない少額の課金がありましたが、どのような内容か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_7/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_7/</guid>
+      <description>クレジットカードの有効性を確認するため、少額の課金をさせていただいております。別途同額をクレジットカードに対して返金をさせていただいておりま</description>
+    </item>
+    
+    <item>
+      <title>クレジットカードの利用ではなく請求書で支払いが可能か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_18/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_18/</guid>
+      <description>請求書での支払いは可能です。ただし、請求代行業者にて事前に審査がございます。 またご利用の上限額も請求代行業者の審査に依存します。</description>
+    </item>
+    
+    <item>
+      <title>クーポンの利用対象について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_17/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_17/</guid>
+      <description>課金方式には、従量課金とサブスクリプション課金の2種類がございます。 ・サブスクリプション 課金サイクルは 1 ヶ月と 1 年間の 2 種類からお選びいただ</description>
+    </item>
+    
+    <item>
+      <title>コンソールは日本リージョンにあるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_37/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_37/</guid>
+      <description>コンソールは日本にあります。日本にてコンソールを利用する上では中国のネットワークによる影響は受けません。</description>
+    </item>
+    
+    <item>
+      <title>コンソールは閉域でつながるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_38/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_38/</guid>
+      <description>インターネット経由での接続になります。</description>
+    </item>
+    
+    <item>
+      <title>サブスクリプションの返金が可能か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_6/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_6/</guid>
+      <description>サブスクリプション製品については払い戻しができません。 以下の利用規約の2.2 サブスクリプション (e)に規定がございますのでご参照をお願いいた</description>
+    </item>
+    
+    <item>
+      <title>サーバーの帯域の変更方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_97/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_97/</guid>
+      <description>ECSインスタンスの作成時に、ネットワーク帯域幅を1M以上に選択した場合は、ネットワーク帯域幅を変更することができません。 ECSインスタンス</description>
+    </item>
+    
+    <item>
+      <title>スターターパックのカスタムイメージサポートについて教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_94/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_94/</guid>
+      <description>恐れ入りますが、スターターパックを購入時、パブリックイメージのみサポートしており、 カスタムイメージからのインスタンス作成はサポートしておりま</description>
+    </item>
+    
+    <item>
+      <title>スターターパッケージの判別方法について</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_90/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_90/</guid>
+      <description>申し訳ありませんが、明示的にパッケージ名が確認する方法はございません。インスタンスのサイズから購入いただいたパッケージを判別いただけますでし</description>
+    </item>
+    
+    <item>
+      <title>ソフトバンクと契約した場合、保守運用サービスがあるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_106/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_106/</guid>
+      <description>お客様の保守運用方針に合致した提案を致しますのでソフトバンク営業員にお問い合わせください</description>
+    </item>
+    
+    <item>
+      <title>テレビ会議の構築など、他社クラウドサービスを構築しているベンダーが対応可能か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_24/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_24/</guid>
+      <description>対応可否については対象のベンダー様次第となります。ただし、SBクラウドとして構築パートナーをご用意しておりますので要件に応じてご紹介いたしま</description>
+    </item>
+    
+    <item>
+      <title>トラフィックの課金はどこで発生するか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_40/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_40/</guid>
+      <description>リージョンからみて、インターネットのトラフィックアウトのみ課金が発生します。</description>
+    </item>
+    
+    <item>
+      <title>パートナーになるための条件について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_105/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_105/</guid>
+      <description>担当営業がご訪問させていただき、詳細説明をさせていただきます。</description>
+    </item>
+    
+    <item>
+      <title>ファイル共有のためのストレージサービスはあるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_62/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_62/</guid>
+      <description>Alibaba Cloud OSS(オブジェクトストレージ)というストレージサービスをご提供しています。WindowsやMacのパソコンから操作できるアプリケーショ</description>
+    </item>
+    
+    <item>
+      <title>ブラックホールの継続時間について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_104/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_104/</guid>
+      <description>ブラックホールの継続時間については、攻撃の規模に依存しますが、最大24時間ブラックホール状態が継続される可能性がございます。 攻撃が確認できな</description>
+    </item>
+    
+    <item>
+      <title>プログラム言語のバージョン違い(例:オンプレ java1.6 SBクラウドjava1.8のみなど)制限はございますでしょうかcloud-initなどAlibaba Cloud独自製品によって、プログラム言語のバージョンに制限があることを気にしております。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_123/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_123/</guid>
+      <description>ECS上で動作させるプログラミング言語についてはOSに依存しています。Alibaba Cloudでの制限はございません。</description>
+    </item>
+    
+    <item>
+      <title>マイグレーションについて、サーバ移行をしたい時にツールはあるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_100/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_100/</guid>
+      <description>仮想マシンのOSイメージをインポートする機能を持っています。 形式があれば対応可能です。 また、いくつかマイグレーションツールを持っているのでそ</description>
+    </item>
+    
+    <item>
+      <title>メニュー画面で利用できる言語を教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_61/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_61/</guid>
+      <description>日本語・英語・中国語に対応しています。</description>
+    </item>
+    
+    <item>
+      <title>メールサーバの運用について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_93/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_93/</guid>
+      <description>外部へのSMTPプロトコルを禁止しているため、通常のメールサーバとしての運用はできません。 例外的に宛先として3ドメイン名まで特別に解除するこ</description>
+    </item>
+    
+    <item>
+      <title>モンスターレガシーシステム(大規模システムで高い可用性が求められ、アップデートがあまりないシステム)を移行する際にシステム自体の改修が必要になりますでしょうか。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_132/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_132/</guid>
+      <description>システムの構成によります。 例えば、Alibaba Cloudのプロダクトを利用する際に、コンポーネントの接続方法などが変更される場合は改修が必</description>
+    </item>
+    
+    <item>
+      <title>一部リージョンの売り切れ状態について教えてください。 </title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_88/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_88/</guid>
+      <description>調整のため、一部リージョンは売り切れの状態となっております。 申し訳ありませんが、提供再開時期は未定となっております。 迅速に努めますので、もう</description>
+    </item>
+    
+    <item>
+      <title>両社の出資比率はどうなっているか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_115/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_115/</guid>
+      <description>SBクラウドの出資比率ですが、ソフトバンクが60％、アリババが40％となっています。</description>
+    </item>
+    
+    <item>
+      <title>中国⇔日本間のExpress Connect（VPCコネクション）はSBクラウド独自のサービスか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_23/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_23/</guid>
+      <description>Express Connect（VPCコネクション）はAlibaba CloudおよびSBクラウドの独自サービスです。</description>
+    </item>
+    
+    <item>
+      <title>中国に工場を持つ企業で、Alibaba Cloudはどのように使えるかユースケース教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_32/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_32/</guid>
+      <description>導入事例集をご確認ください。 https://www.sbcloud.co.jp/case/</description>
+    </item>
+    
+    <item>
+      <title>中国に進出している日本企業数はどれくらいあるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_25/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_25/</guid>
+      <description>14,000社程度あります。（2016年末時点）</description>
+    </item>
+    
+    <item>
+      <title>中国サイトで既にAlibaba Cloudをご利用しているお客様が、日本のアカウントを使う場合はどのようになるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_53/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_53/</guid>
+      <description>中国サイトのアカウントと日本のアカウントの統合及び変更はできません。新規に日本アカウントを作成しご利用頂くことができます。</description>
+    </item>
+    
+    <item>
+      <title>中国リージョンのサーバへのアクセスについて教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_99/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_99/</guid>
+      <description>通常のインターネットです。 Express Connectを利用する事で、専用線を利用することもできます。</description>
+    </item>
+    
+    <item>
+      <title>中国リージョンを購入するとき、どこのコンソールを見ればいいか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_39/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_39/</guid>
+      <description>日本のコンソールから中国リージョンを購入することができます。</description>
+    </item>
+    
+    <item>
+      <title>中国側のローカルラインの手配方法を教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_84/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_84/</guid>
+      <description>現地キャリアへの申込が必要となります。</description>
+    </item>
+    
+    <item>
+      <title>中国側のローカルラインの納期の短縮もできるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_83/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_83/</guid>
+      <description>できません。現地のキャリア次第となります。</description>
+    </item>
+    
+    <item>
+      <title>中国本国にあるサービスとの違いについて教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_29/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_29/</guid>
+      <description>使われている技術は同じです。 日本で展開しているサービスは日本側でのサポート対象としているため、日本では提供していないサービスもございます。尚</description>
+    </item>
+    
+    <item>
+      <title>中国法への対応状況について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_28/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_28/</guid>
+      <description>アリババと連携し中国の方に則ったサービスの提供をしております。中国側での法規制などが発生した際は、規制内容に対して解釈するとともに対応策につ</description>
+    </item>
+    
+    <item>
+      <title>中国進出企業が中国特有のインターネット事情により社内システムへアクセス出来ないという課題がよくあります。これまでは日本まで専用線を引くしかなかったのですが、安価に中国側から日本側へのアクセス経路を提供できるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_67/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_67/</guid>
+      <description>Express Connect（VPCコネクション）をご利用いただくことでリージョン間でインターネットを介さない通信が可能になります。またIP-VPN等と</description>
+    </item>
+    
+    <item>
+      <title>事業内容について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_111/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_111/</guid>
+      <description>パブリッククラウドサービスの設計、開発、輸出入および販売です。</description>
+    </item>
+    
+    <item>
+      <title>他のクラウドサービスからマイグレーションする際、互換性について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_36/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_36/</guid>
+      <description>既にコンテナサービスをご利用されている場合または、KVMベースで構築されている場合は比較的マイグレーションがし易いですが、それ以外の場合は、</description>
+    </item>
+    
+    <item>
+      <title>代表者について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_109/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_109/</guid>
+      <description>代表取締役社長 内山敏 が今年6月に就任しております。</description>
+    </item>
+    
+    <item>
+      <title>会社のビジョンを教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_114/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_114/</guid>
+      <description>日本でのパブリッククラウドの提供をメイン業務としつつ、中国を中心に世界展開を目指します。</description>
+    </item>
+    
+    <item>
+      <title>会社住所について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_113/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_113/</guid>
+      <description>汐留です。（〒105-0021 東京都港区東新橋1-9-2 汐留住友ビル）</description>
+    </item>
+    
+    <item>
+      <title>従業員人数について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_110/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_110/</guid>
+      <description>非公開です。※毎月拡大・人員追加しております</description>
+    </item>
+    
+    <item>
+      <title>従量課金の料金の確認方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_3/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_3/</guid>
+      <description>従量課金は、１時間ごとに集計されております。 お支払いが必要な料金については以下のメニューから確認ができますので、必要に応じてご利用ください。</description>
+    </item>
+    
+    <item>
+      <title>従量課金の請求タイミングについて教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_5/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_5/</guid>
+      <description>従量課金につきましては、お客様の利用状況に応じて不定期に行われます。 不定期となりますが、月初には1回必ず実行される仕組みとなっております。 サ</description>
+    </item>
+    
+    <item>
+      <title>従量課金の請求履歴の確認方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_4/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_4/</guid>
+      <description>以下の画面から確認ができます。 [コンソール] - [Billing Management] - [料金・支払い管理] - [料金詳細] - [従量課金ご利用分] 画面のコンボボックスから年月の選</description>
+    </item>
+    
+    <item>
+      <title>支払い方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_12/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_12/</guid>
+      <description>お支払いには、日本で発行されたクレジットカードが登録可能です。 プリペイド型クレジットカード、デビットカード、電子マネーの登録はできませんので</description>
+    </item>
+    
+    <item>
+      <title>料金について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_1/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_1/</guid>
+      <description>Alibaba Cloud公式ホームページの料金プラン・特徴ページをご参照ください。 https://jp.alibabacloud.com/pricing 尚、見積りツールも用意しておりますので、こちらも併せてご利用をお願い</description>
+    </item>
+    
+    <item>
+      <title>料金見積りツールのリンクを教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_15/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_15/</guid>
+      <description>見積りツールは下記から利用できます。 https://calculator.sbcloud.co.jp/ その他提供サービスの料金についてはAlibaba Cloud公式ホームページの料金プラン・特徴ページをご</description>
+    </item>
+    
+    <item>
+      <title>日本から中国以外の国にExpress Connect（VPCコネクション）は提供されているか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_76/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_76/</guid>
+      <description>需要に応じて日本から中国以外のリージョンへのサービスメニューも追加していきます。</description>
+    </item>
+    
+    <item>
+      <title>日本で提供していないサービスを利用したい場合、海外リージョンを使えば利用可能か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_31/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_31/</guid>
+      <description>SBクラウド経由の場合、基本的には海外リージョンのサービスラインナップも日本と同様となります。</description>
+    </item>
+    
+    <item>
+      <title>日本のサーバーを購入せずに、中国のサーバーの購入ができるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_48/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_48/</guid>
+      <description>中国サーバのみの購入も可能です。</description>
+    </item>
+    
+    <item>
+      <title>日本のサーバーを購入せずに、中国のサーバーの購入ができる場合、SBクラウドの関わり方はどのようになるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_49/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_49/</guid>
+      <description>中国サーバのみの購入も可能です。SBクラウドとしては、サービス提供事業者、サービス窓口となります。</description>
+    </item>
+    
+    <item>
+      <title>日本サイトAlibaba Cloudの契約で中国国内のサーバーの購入は可能か教えてください。その際に日本円での請求になるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_16/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_16/</guid>
+      <description>日本サイトAlibaba Cloudの契約で、中国をはじめアメリカ・シンガポールなど全世界の地域のAlibaba Cloudのサービスをご利用い</description>
+    </item>
+    
+    <item>
+      <title>日本リージョンで使用可能なゾーン数を教えてください。また、ゾーンは電源とネットワークが独立した物理領域と認識しておりますが、例えば、AゾーンとBゾーンでECSインスタンスを冗長構成にした場合、Aゾーンで物理障害が発生しても、Bゾーンでサービスを継続できることでよろしいでしょうか。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_118/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_118/</guid>
+      <description>Availability Zoneは電源、ネットワークなどが冗長化され、独立した物理領域によって 構成されるため、お互いに影響はされない 東京リージョンの場合、現時点で</description>
+    </item>
+    
+    <item>
+      <title>日本中国間のビデオ会議システムでネットワークの問題でうまく会議ができません。この問題の改善をAlibaba Cloudでできるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_86/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_86/</guid>
+      <description>Alibaba Cloudには日本と中国の間を専用型ネットワークで接続できるExpress Connect（VPCコネクション）を提供しています。こちらを利</description>
+    </item>
+    
+    <item>
+      <title>日本以外のリージョンのサービス利用が可能か教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_30/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_30/</guid>
+      <description>可能です。 中国、香港、シンガポール、アメリカ、オーストラリア、ドバイなど各リージョンのサービスをご利用いただけます。対象リージョンについては</description>
+    </item>
+    
+    <item>
+      <title>日本以外の国（リージョン）のECSの提供について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_35/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_35/</guid>
+      <description>Alibaba Cloudの日本サイトで提供しているECSは、日本以外のリージョンでもご利用可能です。</description>
+    </item>
+    
+    <item>
+      <title>日本国内で東京以外のリージョンを作る予定はあるか教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_42/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_42/</guid>
+      <description>こちらは非公開情報となっており情報提供できません。</description>
+    </item>
+    
+    <item>
+      <title>海外のリージョンの場所について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_34/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_34/</guid>
+      <description>お客様が任意で以下のリージョンをご選択可能です。 中国：青島 、北京、張家口、杭州、上海、深セン 国際：香港、シンガポール、シドニー、東京、シリコ</description>
+    </item>
+    
+    <item>
+      <title>請求書のダウンロード方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_11/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_11/</guid>
+      <description>以下の画面から確認ができます。 ・サブスクリプション [コンソール] - [Billing Management] - [料金・支払い管理] - [料金詳細] - [サブスクリプションご利用分] ・</description>
+    </item>
+    
+    <item>
+      <title>資本金総額について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_112/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_112/</guid>
+      <description>非公開です。</description>
+    </item>
+    
+    <item>
+      <title>非標準オペレーティングシステムのイメージをインポートした場合のサポート範囲を教えてください。標準オペレーティングシステムと異なり、一切サポートされないのではと考えております。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_126/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_126/</guid>
+      <description>サポート範囲外です。</description>
+    </item>
+    
+    <item>
+      <title>領収書の発行方法について教えてください。</title>
+      <link>https://alibabacloud-faq.github.io/faq/1532846520_13/</link>
+      <pubDate>Sat, 28 Jul 2018 16:14:11 +0900</pubDate>
+      
+      <guid>https://alibabacloud-faq.github.io/faq/1532846520_13/</guid>
+      <description>支払いはクレジットカード払いとなっておりますので、領収書はクレジットカード会社へお問い合わせください。 弊社からは請求書を発行しております。以</description>
+    </item>
     
     <item>
       <title>クラウドサービスのサポートはどこが行うのでしょうか。</title>
